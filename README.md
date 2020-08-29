@@ -1,4 +1,4 @@
-# Landscape 🌵🌲🌳🌾🌺🌿
+# Landscape 🌵🌲🌾🌺🌿
 This repo contains information that I've used to transfer sections of our yard
 into one that primarily uses California Native species. This allows us to have
 reduced water usage, support local fauna, and it should also look pretty swell.
