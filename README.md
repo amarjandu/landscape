@@ -1,4 +1,4 @@
-# Landscape
+# Landscape 🌵🌲🌳🌾🌺🌿
 This repo contains information that I've used to transfer sections of our yard
 into one that primarily uses California Native species. This allows us to have
 reduced water usage, support local fauna, and it should also look pretty swell.
@@ -20,8 +20,8 @@ my way to the larger yard.
 
 ## Plumbing Section
  Overall this section took 2 hours to complete, there was a minimal amount of 
- prep work that needed to be done, the most time/labor expensive part was washing
- the stones used in the space.
+ prep work that needed to be done, the most time/labor expensive part was 
+ washing the stones used in the space.
 
 ![pre](images/plumbing-section/pre.jpg)
 ![post](images/plumbing-section/post.jpg)
@@ -35,6 +35,12 @@ my way to the larger yard.
 |                          |              |   $49.98   |
 
 
-### Watering Notes
-Performed deep watering every other day to establish roots for this area.
+### Section Notes
+Performed deep watering every other day to establish roots for this area. The use
+of the big rock in the middle is intensional, first it provides protection to the
+plastic pipes used for the irrigation system, and it also protects the Abelia from
+the hose.
 
+# Notes
+This repo was inspired by the work of [katmeister](https://github.com/katmeister)
+ and their [tokyo-2019](https://github.com/katmeister/tokyo-2019) repo.
