@@ -3,21 +3,21 @@ This repo contains information that I've used to transfer sections of our yard
 into one that primarily uses California Native species. This allows us to have
 reduced water usage, support local fauna, and it should also look pretty swell.
 
-# Permits / Building Code
+# Permits / Building Code 🔍 📗
 This is a reference for some landscaping building details in my area:
 
 [Landscaping building standards](https://www.fremont.gov/1066/Landscape-Standard-Details)
 
 [Article II. Duty of Property Owners to Maintain Street Trees and Sidewalks](https://www.fremont.gov/faq.aspx?qid=610)
 
-# Planning
+# Planning 📝
 There are 5 main spaces to the front yard: 2 hellstrips (planting strip), a 
 separation between our and the neighbors property, a small section for plumbing,
 then the primary front yard. To get a feel of the amount of labour it takes to 
 finish of a section I decided to work on the smaller hellscapes first, then work
 my way to the larger yard.
 
-# Reducing Material Cost
+# Reducing Material Cost 💸
 The biggest thing is don't use hardware stores to buy hardscape material, you
 will probably find a better deal on rocks through a landscaping whole-seller.
 The one that I use is [Clark`s Home and Garden](http://clarkshomeandgarden.com/).
@@ -26,7 +26,7 @@ at a more affordable price.
 
 
 
-## Plumbing Section
+## Plumbing Section 🚿
  Overall this section took 2 hours to complete, there was a minimal amount of 
  prep work that needed to be done, the most time/labor expensive part was 
  washing the stones used in the space. Under the rocks there is a layer of 
@@ -51,10 +51,10 @@ of the big rock in the middle is intensional, first it provides protection to th
 plastic pipes used for the irrigation system, and it also protects the Abelia from
 the hose.
 
-## Far Hellscape
+## Far Hellscape 🔥
 The far hellscape has gone through more changes due to its smaller size. 
 Unfortunately there is no pre-photo showing off the bare dirt and dry grass. But
-if you use your imagination after seeing the pre photo from the first hellscape,
+if you use your imagination after seeing the pre photo from the closer hellscape,
 it looks the exact same. Due to this area being the furthest from the water hose
 (and there for the most likely to be forgotten to be watered), its important to
 use plants in this space that are very drought tolerant.
@@ -90,6 +90,12 @@ usage in the area. For more information reference
 |   Vigoro Weed Barrier    |              |            |
 |     Vigoro Red Mulch     |              |   $3.99    |
 |                          |              |   $44.98   |
+
+### Section Notes
+I do think that there can also be some grasses, or a smaller shrub added next
+to the pacific bell access hole. I want to see how the Manzanita does before 
+adding something else there. I also tend to park on the ridge, do I need to see
+what the spacing looks like.
 
 
 # Notes
