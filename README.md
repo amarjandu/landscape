@@ -10,6 +10,9 @@ This is a reference for some landscaping building details in my area:
 
 [Article II. Duty of Property Owners to Maintain Street Trees and Sidewalks](https://www.fremont.gov/faq.aspx?qid=610)
 
+# Resources ℹ
+[Olivier Filippi - Lawn Alternatives in Mediterranean Gardens](https://vimeo.com/102817124)
+
 # Planning 📝
 There are 5 main spaces to the front yard: 2 hellstrips (planting strip), a 
 separation between our and the neighbors property, a small section for plumbing,
