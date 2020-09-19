@@ -111,17 +111,18 @@ The close hellscape is ~17ft x 5ft space that has a peach tree on one side.
 Because this area is closer to the hose (more likely to get watered), we use
 that to our advantage.
 
-|           Materials Used           |         Notes          | Cost (USD) |
-| :--------------------------------: | :--------------------: | :--------: |
-|             Peach Tree             | Grown from random seed |    \$0     |
-|      550lbs Noia Pebbles 1.5"      |      #14 @ Clarks      |    \$?     |
-| Vigoro Weed Barrier (Double layer) |                        |            |
-|          Vigoro Red Mulch          |                        |    \$?     |
-|              Lavender              |                        |  \$17.98   |
-|                 ?                  |                        |  \$44.98   |
-|                 ?                  |                        |  \$44.98   |
-|              Pebbles               |                        |   \$4.99   |
-|                                    |                        |  \$44.98   |
+|           Materials Used           |                  Notes                   | Cost (USD) |
+| :--------------------------------: | :--------------------------------------: | :--------: |
+|             Peach Tree             |          Grown from random seed          |    \$0     |
+|      550lbs Noia Pebbles 1.5"      |               #14 @ Clarks               |    \$?     |
+| Vigoro Weed Barrier (Double layer) |                                          |            |
+|          Vigoro Red Mulch          |                                          |    \$?     |
+|              Lavender              |                                          |  \$17.98   |
+|         California Fuchsia         |    2-3ft wide, 1.5ft tall, low water     |  \$10.00   |
+|       Island Bush Snapdragon       |    4-5ft wide, 3-4ft tall, low water     |  \$10.00   |
+|        Sonoma Coast Yarrow         | 2-3ft wide, .5-1ft tall, low / med water |  \$10.00   |
+|              Pebbles               |                                          |   \$4.99   |
+|                                    |                                          |  \$44.98   |
 
 The first thing that was done is the removal of the old dead grass sections,
 this took several hours to complete, and was left bare for a couple weeds to
