@@ -155,6 +155,16 @@ inside before trying to fit the weed barrier. I used the smaller broken rocks
 that came part of the Noia rocks from the other sections to hold the guards in
 place, gravel on top.
 
+![in-progress](images/close-hellscape/in-progress.jpg)
+![missing-footpath](images/close-hellscape/missing-footpath.jpg)
+
+### Winter Update
+
+So far all the plants have been thriving in the cold with the exception of the 
+lavender. I think this was due to it being planted too late in the season. It 
+may need to be removed to allow for the California Fuchsia to take over that 
+space, I'm surprised with how large it is getting.
+
 # Pro Advice
 
 - Use a pickaxe to remove old grass
