@@ -16,6 +16,8 @@ This is a reference for some landscaping building details in my area:
 
 [Olivier Filippi - Lawn Alternatives in Mediterranean Gardens](https://vimeo.com/102817124)
 
+[Manzanitas - Pete Veilleux](https://www.youtube.com/watch?v=29i4EFJEi3gt)
+
 # Planning 📝
 
 There are 5 main spaces to the front yard: 2 hellstrips (planting strip), a
@@ -23,6 +25,7 @@ separation between our and the neighbors property, a small section for plumbing,
 then the primary front yard. To get a feel of the amount of labour it takes to
 finish of a section I decided to work on the smaller hellscapes first, then work
 my way to the larger yard.
+![sectioning](images/yard-section-draft.svg)
 
 # Reducing Material Cost 💸
 

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="yard-section-draft.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="15.913081"
+       y="97.843941"
+       width="70.103571"
+       height="15.482997"
+       id="rect2963" />
+    <linearGradient
+       id="linearGradient2945"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop2943" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2303819"
+     inkscape:cx="496.24168"
+     inkscape:cy="290.42378"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer7"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2328"
+     inkscape:window-height="1881"
+     inkscape:window-x="439"
+     inkscape:window-y="177"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="74.051957,54.749409"
+       orientation="0,-1"
+       id="guide99" />
+    <sodipodi:guide
+       position="19.998871,205.26908"
+       orientation="0,-1"
+       id="guide105" />
+    <sodipodi:guide
+       position="19.998871,74.308729"
+       orientation="0,-1"
+       id="guide107" />
+    <sodipodi:guide
+       position="143.00268,134.73543"
+       orientation="1,0"
+       id="guide113" />
+    <sodipodi:guide
+       position="282.34967,130.43459"
+       orientation="1,0"
+       id="guide954" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Base">
+    <rect
+       style="fill:#f3edd5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect3040"
+       width="296.97247"
+       height="209.88063"
+       x="0"
+       y="0.21504162" />
+  </g>
+  <g
+     inkscape:label="Far Hellscape"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:#e9c6af;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 9.0828456,155.25059 42.6047804,0 -16.793772,33.97179 -25.8110084,-0.21504 z"
+       id="path72"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="11.612254"
+       y="164.93694"
+       id="text2975"><tspan
+         sodipodi:role="line"
+         id="tspan2973"
+         x="11.612254"
+         y="164.93694"
+         style="font-size:4.23333px;stroke-width:0.264583">FAR HELLSCAPE</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Plumbing"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect115"
+       width="47.191185"
+       height="14.822866"
+       x="143.00267"
+       y="4.7309203" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.15;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="155.4751"
+       y="13.33258"
+       id="text2955"><tspan
+         sodipodi:role="line"
+         id="tspan2953"
+         x="155.4751"
+         y="13.33258"
+         style="font-size:4.23333px;stroke-width:0.264583">PLUMBING</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2961"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333000000032px;white-space:pre;shape-inside:url(#rect2963);" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Close Hellscape">
+    <path
+       style="fill:#e9ddaf;stroke:#000000;stroke-width:0.446724px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 282.34967,155.25059 -139.34699,0 16.74458,33.75675 122.60241,0.43008 z"
+       id="path72-6"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="163.86172"
+       y="170.31297"
+       id="text2979"><tspan
+         sodipodi:role="line"
+         id="tspan2977"
+         x="163.86172"
+         y="170.31297"
+         style="font-size:4.23333px;stroke-width:0.264583">CLOSE HELLSCAPE</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Close Hellscape Footpath">
+    <g
+       id="g988"
+       transform="translate(-6.6662905,-0.21504163)"
+       style="fill:#2c89a0">
+      <g
+         id="g982"
+         style="fill:#2c89a0">
+        <g
+           id="g977"
+           style="fill:#2c89a0">
+          <rect
+             style="fill:#2c89a0;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             id="rect956"
+             width="12.472415"
+             height="6.0211658"
+             x="222.56807"
+             y="161.92635" />
+          <rect
+             style="fill:#2c89a0;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+             id="rect956-0"
+             width="12.472415"
+             height="6.0211658"
+             x="222.78313"
+             y="173.32356" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#2c89a0;fill-opacity:0.295547;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2949"
+       width="44.513565"
+       height="63.007195"
+       x="225.57872"
+       y="40.212784" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Main Lawn">
+    <path
+       style="fill:#454837;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 143.43357,135.69128 h 138.9161 V 4.7309205 l -56.77095,3e-7 V 40.212784 h -82.36094 v 95.478486 z"
+       id="path111"
+       sodipodi:nodetypes="cccccccc" />
+    <rect
+       style="fill:#ff2a2a;fill-opacity:0.29554656;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect999"
+       width="82.360886"
+       height="95.478493"
+       x="143.21777"
+       y="40.212784" />
+    <rect
+       style="fill:#5599ff;fill-opacity:0.295547;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect2951"
+       width="56.77095"
+       height="95.478493"
+       x="225.57872"
+       y="40.212784" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.74419"
+       y="48.169327"
+       id="text2985"><tspan
+         sodipodi:role="line"
+         id="tspan2983"
+         x="150.74419"
+         y="48.169327"
+         style="font-size:4.23333px;stroke-width:0.264583">MAINLAWN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="229.44942"
+       y="37.417248"
+       id="text2989"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="229.44942"
+         y="37.417248"
+         style="font-size:4.23333px;stroke-width:0.264583">SECTION 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="229.44942"
+       y="45.373783"
+       id="text2993"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="229.44942"
+         y="45.373783"
+         style="font-size:4.23333px;stroke-width:0.264583">SECTION 2</tspan><tspan
+         sodipodi:role="line"
+         x="229.44942"
+         y="58.602909"
+         style="stroke-width:0.264583"
+         id="tspan2995" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="197.8383"
+       y="46.44899"
+       id="text2999"><tspan
+         sodipodi:role="line"
+         id="tspan2997"
+         x="197.8383"
+         y="46.44899"
+         style="font-size:4.23333px;stroke-width:0.264583">SECTION 3</tspan><tspan
+         sodipodi:role="line"
+         x="197.8383"
+         y="59.678116"
+         style="stroke-width:0.264583"
+         id="tspan3001" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Side Seperation">
+    <rect
+       style="fill:#7c916f;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect101"
+       width="10.53704"
+       height="130.96036"
+       x="9.4618311"
+       y="4.7309203" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-90.872948"
+       y="17.180946"
+       id="text2969"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan2967"
+         x="-90.872948"
+         y="17.180946"
+         style="font-size:4.23333px;stroke-width:0.264583">SEPERATION</tspan></text>
+  </g>
+</svg>
