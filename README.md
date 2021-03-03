@@ -4,6 +4,26 @@ This repo contains information that I've used to transfer sections of our yard
 into one that primarily uses California Native species. This allows us to have
 reduced water usage, support local fauna, and it should also look pretty swell.
 
+
+# Sections ✂️
+
+There are 4 sections that make up the front yard:
+
+- Plumbing (See Hellscape)
+
+ - [Hellscapes](hellscapes/README.md)
+
+ - Main Lawn (Section Coming Soon)
+
+ - Side Separation (Later)
+
+To get a feel of the amount of labour it takes to finish of a section I decided 
+to work on the smaller sections first, then work my way to the larger yard.
+The main lawn was broken into 3 different sections that will be addressed in
+different stages, this allows me to complete the more complex work in section 3
+at a later time. 
+
+![sectioning](images/yard-section-draft.svg)
 # Permits / Building Code 🔍 📗
 
 This is a reference for some landscaping building details in my area:
@@ -17,15 +37,6 @@ This is a reference for some landscaping building details in my area:
 [Olivier Filippi - Lawn Alternatives in Mediterranean Gardens](https://vimeo.com/102817124)
 
 [Manzanitas - Pete Veilleux](https://www.youtube.com/watch?v=29i4EFJEi3gt)
-
-# Planning 📝
-
-There are 5 main spaces to the front yard: 2 hellstrips (planting strip), a
-separation between our and the neighbors property, a small section for plumbing,
-then the primary front yard. To get a feel of the amount of labour it takes to
-finish of a section I decided to work on the smaller hellscapes first, then work
-my way to the larger yard.
-![sectioning](images/yard-section-draft.svg)
 
 # Reducing Material Cost 💸
 
